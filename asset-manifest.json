@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/secretsantahero/static/css/main.6d94252a.css",
+    "main.js": "/secretsantahero/static/js/main.422e3748.js",
+    "static/media/image.jpg": "/secretsantahero/static/media/image.ea77c783cae5d22cb6fe.jpg",
+    "index.html": "/secretsantahero/index.html",
+    "main.6d94252a.css.map": "/secretsantahero/static/css/main.6d94252a.css.map",
+    "main.422e3748.js.map": "/secretsantahero/static/js/main.422e3748.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d94252a.css",
+    "static/js/main.422e3748.js"
+  ]
+}
